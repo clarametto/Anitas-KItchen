@@ -1,0 +1,280 @@
+* {
+    text-decoration: none;
+    text-decoration: none;
+    list-style: none;
+}
+
+#menu {
+    background-image: url("assets/backgrounds/landing.jpg");
+    background-size: 100% 100%;
+    height: 500px;
+
+}
+
+#logo {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 40px;
+    font-weight: 100px;
+    padding-top: 100px;
+}
+
+span {
+    font-size: 60px;
+
+}
+
+.party {
+    display: flex;
+    height: 400px;
+    justify-content: center;
+
+}
+
+.box {
+    width: 50%;
+    height: 120px;
+    /* padding-top: 50px; */
+    text-align: center;
+
+}
+
+.box h2 {
+    color: whitesmoke;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+.div1 {
+    text-align: center;
+    /* height: 120px; */
+}
+
+#hour {
+    background-color: whitesmoke;
+    /* padding-left: 40px; */
+    font-size: 25px;
+    height: 20px;
+
+
+}
+
+#happy {
+    background-color: orangered;
+    font-size: 25px;
+    height: 50px;
+
+
+
+
+}
+
+
+
+
+.div2 {
+    background-image: url("assets/foodtop/breakfast.jpg");
+    background-size: 100% 100%;
+
+}
+
+.div3 {
+    background-image: url("assets/foodtop/lunch.jpg");
+    background-size: 100% 100%;
+
+
+
+}
+
+.div4 {
+    background-image: url("assets/foodtop/dinner2.jpg");
+    background-size: 100% 100%;
+
+}
+
+/* page3 */
+#party {
+    display: flex;
+    height: auto;
+    justify-content: center;
+
+
+}
+
+.imageX {
+    box-shadow: 5px gray;
+    border: 5px solid#ccc;
+    padding: 10px;
+
+
+
+}
+
+
+#metto {
+    width: 300px;
+    height: 150px;
+}
+
+.container {
+    width: 50%;
+    padding: 40px;
+
+}
+
+.image {
+    padding: 40px;
+}
+
+button {
+    color: red;
+    border: 2px solid red;
+    margin: 10px 20px;
+}
+
+.butt {
+    color: red;
+    border: 2px;
+    margin: 10px 20px;
+
+}
+
+button {
+    padding: 15px 40px;
+
+
+}
+
+.photo {
+    right: 80px;
+    height: 260px;
+    border: 3px solid#ccc;
+    background: #eee;
+
+}
+
+#book {
+
+    height: 250px;
+    width: 200px;
+    padding: 5px;
+
+}
+
+#lunch {
+    background-image: url("assets/backgrounds/foodsBg.jpg");
+    height: 450px;
+    padding-top: 5%;
+    padding-left: 9%;
+
+
+}
+
+.menu {
+    height: 350px;
+    width: 90%;
+    background: whitesmoke;
+
+}
+
+.nav {
+    height: 50px;
+    text-align: center;
+    padding-right: 80px;
+}
+
+
+
+#nav {
+    display: flex;
+    width: 100%;
+    padding-top: 10px;
+
+
+
+
+}
+
+h3 {
+    color: tomato;
+    font-size: 20px;
+}
+
+li {
+    width: 50%;
+
+
+}
+
+#picha {
+    height: 200px;
+}
+
+#master {
+    display: flex;
+    /* border: 3px solid#ccc; */
+    padding: 30px;
+    box-shadow: 0px 0px 5px gray;
+
+
+
+}
+
+.customer {
+    text-align: center;
+    width: 70%;
+    border-right: 3px solid#ccc;
+    padding: 20px;
+
+
+
+}
+
+.about {
+    padding: 20px;
+    width: 30%;
+
+}
+
+h1 {
+    color: tomato;
+}
+#daily{
+    background-image: url("assets/backgrounds/subscribe.jpg");
+    text-align: center;
+    padding: 20px;
+
+
+}
+h4{
+    color: whitesmoke;
+    font-size: 40px;
+}
+input{
+text-align: center;
+padding: 15px 60px;
+color: whitesmoke;
+background: transparent;
+border: 0px;
+
+}
+#ton{
+    background: tomato;
+    color: whitesmoke;
+}
+#footer{
+    background-color: tomato;
+    text-align: center;
+    padding: 20px;
+}
+.log{
+    display: flex;
+    padding-left: 46%;
+
+}
+.log p{
+     font-size: 20px;
+    
+}
+
+
